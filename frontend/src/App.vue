@@ -16,6 +16,9 @@ export default {
     NavbarComponent,
   }
 }
+
+
+// CONTINUAR DO MINUTO 6m35s
 </script>
 <style>
   @import url('https://fons.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
